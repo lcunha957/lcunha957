@@ -1,14 +1,17 @@
 ### Olá! Eu sou a Lunara Cunha 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lunara-morena-cunha-362664114/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cunhalunara@gmail.com)
-[![Lattes](https://img.shields.io/badge/-Lattes-orange?style=flat-square&amp;logo=GitBook&amp;logoColor=white&amp;)](http://lattes.cnpq.br/6364475661602011)
+### Contatos:
 
+<div>
+<a href="https://www.linkedin.com/in/lunara-morena-cunha-362664114/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:cunhalunara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="http://lattes.cnpq.br/6364475661602011" target="_blank"><img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square&amp;logo=GitBook&amp;logoColor=white&amp;" target="_blank" alt="Lattes"></a>   
+</div>
 
 
 ![Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcunha957&show_icons=true&theme=synthwave)
 
-## Tecnologias que utilizo no meu cotidiano
+## Tecnologias que utilizo no meu cotidiano no qual estou aprendendo:
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

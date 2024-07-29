@@ -1,9 +1,9 @@
-### Olá! Eu sou a Lunara Cunha 👋
+### Olá! Eu sou a Lunara Freitas 👋
 
 ### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/lunara-morena-cunha-362664114/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lunara-freitas-362664114/" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:cunhalunara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="http://lattes.cnpq.br/6364475661602011" target="_blank"><img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square&amp;logo=GitBook&amp;logoColor=white&amp;" target="_blank" alt="Lattes"></a>   
 </div>

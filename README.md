@@ -9,8 +9,7 @@
 </div>
 
 
-![Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcunha957&show_icons=true&theme=synthwave)
-
+ 
 ## Tecnologias que utilizo no meu cotidiano no qual estou aprendendo:
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
